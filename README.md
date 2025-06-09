@@ -33,6 +33,7 @@ The application uses a relational database with the following main entities:
 - Maven for dependency management
 
 ### Steps:
+
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/BatshevaBirenbaum/Public-Transport-System-Java.git

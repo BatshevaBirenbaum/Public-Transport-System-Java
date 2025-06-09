@@ -36,17 +36,21 @@ The application uses a relational database with the following main entities:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/BatshevaBirenbaum/Public-Transport-System-Java.git
-``
+   ```
 2.Navigate to the project directory:
-cd Public-Transport-System-Java
+   ```bash
+   cd Public-Transport-System-Java
+   ```
 
 3.Compile and package the application using Maven:
-
-mvn clean package
+  ```bash
+   mvn clean package
+  ```
 
 4.Run the application:
-
-mvn exec:java
+  ```bash
+  mvn exec:java
+```
 ## Usage
 Once the application is running, you can use the various search and administrative functions to interact with the system. For example:
 
@@ -59,6 +63,9 @@ Once the application is running, you can use the various search and administrati
 
 ## Contributing
 Contributions are welcome! If you find a bug or would like to add new features, feel free to fork the repository, make your changes, and submit a pull request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 
